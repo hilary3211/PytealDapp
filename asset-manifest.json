@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.064dd7ea.css",
+    "main.js": "/static/js/main.e77d31f7.js",
+    "static/js/825.b00caae5.chunk.js": "/static/js/825.b00caae5.chunk.js",
+    "static/js/538.9563fa45.chunk.js": "/static/js/538.9563fa45.chunk.js",
+    "static/js/30.47d66255.chunk.js": "/static/js/30.47d66255.chunk.js",
+    "static/js/27.83194895.chunk.js": "/static/js/27.83194895.chunk.js",
+    "static/js/514.f97a9385.chunk.js": "/static/js/514.f97a9385.chunk.js",
+    "static/media/rock-paper-scissors-neon-icons-vector.jpeg": "/static/media/rock-paper-scissors-neon-icons-vector.1f572096338c2ec26aec.jpeg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/img2.jpeg": "/static/media/img2.c667a3f72d7dfdacf7f6.jpeg",
+    "static/media/approval.teal": "/static/media/approval.205c9379572975ae1b2f.teal",
+    "index.html": "/index.html",
+    "static/media/clear.teal": "/static/media/clear.6436ca6b33c161d210e2.teal"
+  },
+  "entrypoints": [
+    "static/css/main.064dd7ea.css",
+    "static/js/main.e77d31f7.js"
+  ]
+}
