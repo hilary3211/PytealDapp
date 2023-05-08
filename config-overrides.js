@@ -41,9 +41,19 @@ module.exports = function override(config) {
       test: /\.teal$/,
       type: 'asset/source',
     },
-
+output: {
+    path: path.resolve(__dirname, 'build'),
+    publicPath: '/',
+    filename: 'bundle.js'
+  },
+  devServer: {
+    contentBase: "./build",
+  },
+  plugins: [new HtmlWebpackPlugin({ template: './index.html' })],
     
     
     )
     return config;
+    
+   
 }
